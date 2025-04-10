@@ -1,686 +1,683 @@
-Goldfish - Wikipedia@ 
+Goldsh
 
-W 
+Conservation status
 
-# Goldfish 
+Least Concern
 
-The goldfish (Carassius auratus) is a freshwater fish in the family Cyprinidae of order Cypriniformes. It is commonly kept as a pet in indoor aquariums, and is one of the most popular aquarium fish. Goldfish 
+(IUCN 3.1)
 
-released into the wild have become an invasive pest in parts of North America and Australia.[4][5] 
+[1]
 
-## Goldfish 
+Scientic classication
 
-Native to China, the goldfish is a relatively small member of the carp family (which also includes the Prussian carp and the crucian carp). It was first selectively bred for color in imperial China more than 1,000 years ago, where several distinct breeds were developed. Goldfish breeds vary greatly in size, body shape, fin configuration, and coloration (various combinations of white, yellow, orange, red, brown, and black are known). 
+Domain:
 
-## History 
+Eukaryota
 
-Various species of carp (collectively known as Asian carp) have been bred and reared as food fish for thousands of years in East Asia. Some of these normally gray or silver species have a tendency to produce 
+Kingdom:
 
-red, orange, or yellow color mutations; this was first recorded in Imperial China, during the Jin dynasty 
+Animalia
 
-(266–420).[6][7] 
+Phylum:
 
-During the Tang dynasty (AD 618–907), it was popular to raise carp in ornamental ponds and water 
+Chordata
 
-gardens. A natural genetic mutation produced gold (actually yellowish orange) rather than silver 
+Class:
 
-coloration. People began to selectively breed the gold variety instead of the silver variety, keeping them in ponds or other bodies of water. On special occasions at which guests were expected, they would be moved 
+Actinopterygii
 
-to a much smaller container for display.[8][9] 
+Order:
 
-### Conservation status 
+Cypriniformes
 
-@ EY GRE) W ic) 
+Family:
 
-Least Concern (IUCN 3.1)[1] 
+Cyprinidae
 
-### Scientific classification 
+Goldfish
 
-Domain: Eukaryota 
+The goldfish (Carassius auratus) is a freshwater fish in the family Cyprinidae of order Cypriniformes. It is commonly kept as a pet in indoor aquariums, and is one of the most popular aquarium fish. Goldfish released into the wild have become an invasive pest in parts of North America and Australia.[4][5]
 
-Kingdom: Animalia 
+Native to China, the goldfish is a relatively small member of the carp family (which also includes the Prussian carp and the crucian carp). It was first selectively bred for color in imperial China more than 1,000 years ago, where several distinct breeds were developed. Goldfish breeds vary greatly in size, body shape, fin configuration, and coloration (various combinations of white, yellow, orange, red, brown, and black are known).
 
-Phylum: Chordata 
+Various species of carp (collectively known as Asian carp) have been bred and reared as food fish for thousands of years in East Asia. Some of these normally gray or silver species have a tendency to produce red, orange, or yellow color mutations; this was first recorded in Imperial China, during the Jin dynasty [6][7] (266–420).
 
-Class: Actinopterygii 
+During the Tang dynasty (AD 618–907), it was popular to raise carp in ornamental ponds and water gardens. A natural genetic mutation produced gold (actually yellowish orange) rather than silver coloration. People began to selectively breed the gold variety instead of the silver variety, keeping them in ponds or other bodies of water. On special occasions at which guests were expected, they would be moved to a much smaller container for display.[8][9]
 
-Order: Cypriniformes 
+## History
 
-Family: Cyprinidae 
+Least
 
-By the Song dynasty (AD 960–1279), the selective domestic breeding of goldfish was firmly established.[10] In 1162, the empress of the Song dynasty ordered the construction of a pond to collect the red and gold variety. By this time, people outside the imperial family were forbidden to keep goldfish of the gold (yellow) variety, yellow being the imperial color.[11] 
+Extinct
 
-Subfamily: Cyprininae 
+Threatened
 
-Genus: Carassius 
+Concern
 
-Species: C. auratus 
+EW)
 
-During the Ming dynasty (1368–1644), goldfish also began to be raised indoors,[7] which permitted selection for mutations that would not be able to survive in ponds.[8] The first occurrence of -tailed goldfish was recorded in the Ming dynasty. In 1603, goldfish were introduced to Japan.[8] In 1611, goldfish were introduced to Portugal and from there to other parts of Europe.[8] 
+(CR)(EN)
 
-During the 1620s, goldfish were highly regarded in southern Europe because of their metallic scales, and symbolized good luck and fortune. It became a tradition for married men to give their wives a goldfish on their first anniversary, as a symbol for the prosperous years to come. This tradition quickly died, as goldfish became more available, losing their status. Goldfish were first introduced to North America around 1850 and quickly became popular in the United States.[12][13] 
+LC)
 
-### Binomial name 
+(VU)
 
-#### Carassius auratus 
+(NT)
 
-(Linnaeus, 1758)[2][3] 
+EX) Subfamily:
 
-### Synonyms 
+Cyprininae
 
-### List of synonyms 
+Genus:
 
-#### Carassius discolor (Basilewsky, 1855) 
+Carassius
 
-#### Carassius burgeri (Temminck & Schlegel, 1846) 
+Species:
 
-##### Carassius coeruleus 
+C. auratus
 
-(Basilewsky, 1855) 
+Binomial name
 
-#### Carassius encobia (Bonaparte, 1845) 
+Carassius auratus
 
-Carassius grandoculis 
+(Linnaeus, 1758)
 
-(Temminck & Schlegel, 1846) 
+[2][3]
 
-##### Carassius pekinensis 
+## Synonyms
 
-(Basilewsky, 1855) 
+## List of synonyms
 
-#### Cyprinus auratus (Linnaeus, 1758) 
+* Carassius discolor (Basilewsky,
 
-#### Cyprinus gibelioides (Cantor, 1842) 
+1855)
 
-Cyprinus mauritianus (Bennett, 
+* Carassius burgeri (Temminck & Schlegel, 1846)
 
-There has been considerable debate about the taxonomy of the goldfish. Previously, the goldfish was believed to be either a subspecies of the crucian carp (Carassius carassius), or of the Prussian carp (Carassius gibelio).[14][15][16] However, modern genetic sequencing has suggested otherwise, and that modern goldfish are domesticated varieties of C. auratus that are native to Southern China.[17] C. auratus are differentiated from other Carassius species by several characteristics. C. auratus have a more pointed snout, while the snout of C. carassius is well rounded. C. gibelio often has a grayish/greenish color, while crucian carp are always golden bronze. Juvenile crucian carp have a black spot on the base of the tail, which disappears with age. In C. auratus, this tail spot is never present. C. auratus have fewer than 31 scales along the lateral line, while crucian carp have 33 scales or more. 
+* Carassius coeruleus (Basilewsky, 1855)
 
-## Biology 
+* Carassius encobia (Bonaparte, 1845)
 
-### Taxonomy 
+* Carassius grandoculis (Temminck & Schlegel, 1846)
 
-Goldfish can hybridize with some other Carassius species of carp. Koi and common carp may also 
+* Carassius pekinensis (Basilewsky, 1855)
 
-interbreed with goldfish to produce sterile hybrids. 
+* Cyprinus auratus (Linnaeus,
 
-1832) 
+* 1758)
 
-Cyprinus chinensis (Gronow, 
+* Cyprinus gibelioides (Cantor,
 
-1854) 
+1842)
 
-#### Cyprinus maillardi (Guichenot) 
+* Cyprinus mauritianus (Bennett,
 
-Cyprinus nigrescens (Günther, 
+By the Song dynasty (AD 960–1279), the selective domestic breeding of goldfish was firmly established.[10] In 1162, the empress of the Song dynasty ordered the construction of a pond to collect the red and gold variety. By this time, people outside the imperial family were forbidden to keep goldfish of the gold (yellow) [11] variety, yellow being the imperial color.
 
-1868) 
+During the Ming dynasty (1368–1644), goldfish also began to be raised indoors,[7] which permitted selection for mutations that would not be able to survive in ponds.[8] The first occurrence of -tailed goldfish [8] was recorded in the Ming dynasty. In 1603, goldfish were introduced to Japan. In 1611, goldfish were [8] introduced to Portugal and from there to other parts of Europe.
 
-#### Cyprinus thoracatus 
+During the 1620s, goldfish were highly regarded in southern Europe because of their metallic scales, and symbolized good luck and fortune. It became a tradition for married men to give their wives a goldfish on their first anniversary, as a symbol for the prosperous years to come. This tradition quickly died, as goldfish became more available, losing their status. Goldfish were first introduced to North America [12][13] around 1850 and quickly became popular in the United States.
 
-(Valenciennes 1842) 
+There has been considerable debate about the taxonomy of the goldfish. Previously, the goldfish was believed to be either a subspecies of the crucian carp (Carassius carassius), or of the Prussian carp (Carassius gibelio).[14][15][16] However, modern genetic sequencing has suggested otherwise, and that modern goldfish are domesticated varieties of C. auratus that are native to Southern China.[17] C. auratus are differentiated from other Carassius species by several characteristics. C. auratus have a more pointed snout, while the snout of C. carassius is well rounded. C. gibelio often has a grayish/greenish color, while crucian carp are always golden bronze. Juvenile crucian carp have a black spot on the base of the tail, which disappears with age. In C. auratus, this tail spot is never present. C. auratus have fewer than 31 scales along the lateral line, while crucian carp have 33 scales or more.
 
-#### Neocarassius ventricosus 
+## Biology
 
-(Castelnau, 1872) 
+## Taxonomy
 
-As of April 2008, the largest goldfish in the world was believed by the BBC to measure 19 inches (48 cm), 
+Goldsh - Wikipedia 1832)
 
-in the Netherlands.[20] At the time, a goldfish named "Goldie", kept as a pet in a tank in Folkestone, 
+* Cyprinus chinensis (Gronow,
 
-England, was measured as 15 inches (38 cm) and over 2 pounds (0.91 kg), and named as the second largest in the world behind the Netherlands fish.[20] The secretary of the Federation of British Aquatic Societies 
+1854)
 
-(FBAS) stated of Goldie's size, "I would think there are probably a few bigger goldfish that people don't 
+* Cyprinus maillardi (Guichenot)
 
-think of as record holders, perhaps in ornamental lakes".[20] In July 2010, a goldfish measuring 16 inches (41 cm) and 5 pounds (2.3 kg) was caught in a pond in Poole, England, thought to have been abandoned there after outgrowing a tank.[21] On November 16, 2020, a 15-inch (38 cm) goldfish 
+* Cyprinus nigrescens (Günther, 1868)
 
-weighing 9 pounds (4.1 kg) was found in a 16 acres (6.5 ha) lake in Greenville, South Carolina, while 
+* Cyprinus thoracatus (Valenciennes 1842)
 
-Chinese 
+* Neocarassius ventricosus
 
-conducting a population survey of Oak Grove Lake.[22] 
+* (Castelnau, 1872)
 
-Literal meaning "gold fish" 
+## Goldsh
 
-##### Goldfish 
+## Chinese
 
-Transcriptions 
+Literal meaning
 
-Standard Mandarin 
+"gold sh"
 
-### Vision 
+Transcriptions
 
-As a domestic fish, thus an easily accessible model organism, goldfish have one of the most studied 
+Standard Mandarin
 
-senses of vision in fishes.[23] Goldfish have four kinds of cone cells, which are respectively sensitive to different colors: red, green, blue and ultraviolet. The ability to distinguish between four different primary colors classifies them as tetrachromats.[24] 
+Hanyu Pinyin
 
-Hanyu Pinyin jīnyú 
+jīnyú
 
-t.: 
+Feral goldsh found in Essex County, Ontario.
 
-### Size 
+Goldfish can hybridize with some other Carassius species of carp. Koi and common carp may also interbreed with goldfish to produce sterile hybrids.
 
-Wild goldfish typically grow to between 4.7 inches (12 cm) and 8.7 inches (22 cm) but can reach 16 inches (41 cm).[18] The size of pet goldfish depends upon its breed.[19] 
+Wild goldfish typically grow to between 4.7 inches (12 cm) and 8.7 inches (22 cm) but can reach 16 inches (41 cm).[18] The size of pet goldfish depends upon its breed.[19]
 
-### Hearing 
+As of April 2008, the largest goldfish in the world was believed by the BBC to measure 19 inches (48 cm), [20] in the Netherlands. At the time, a goldfish named "Goldie", kept as a pet in a tank in Folkestone, England, was measured as 15 inches (38 cm) and over 2 pounds (0.91 kg), and named as the second largest in the world behind the Netherlands fish.[20] The secretary of the Federation of British Aquatic Societies (FBAS) stated of Goldie's size, "I would think there are probably a few bigger goldfish that people don't think of as record holders, perhaps in ornamental lakes".[20] In July 2010, a goldfish measuring 16 inches (41 cm) and 5 pounds (2.3 kg) was caught in a pond in Poole, England, thought to have been abandoned there after outgrowing a tank.[21] On November 16, 2020, a 15-inch (38 cm) goldfish weighing 9 pounds (4.1 kg) was found in a 16 acres (6.5 ha) lake in Greenville, South Carolina, while conducting a population survey of Oak Grove Lake.[22]
 
-Goldfish have one of the most studied senses of hearing in fish.[25] They have two otoliths, permitting the detection of sound particle motion, and Weberian ossicles connecting the swim bladder to the otoliths, facilitating the detection of sound pressure.[26] 
+As a domestic fish, thus an easily accessible model organism, goldfish have one of the most studied [23] senses of vision in fishes. Goldfish have four kinds of cone cells, which are respectively sensitive to different colors: red, green, blue and ultraviolet. The ability to distinguish between four different primary [24] colors classifies them as tetrachromats.
 
-Feral goldfish found in Essex County, Ontario. 
+[25] Goldfish have one of the most studied senses of hearing in fish. They have two otoliths, permitting the detection of sound particle motion, and Weberian ossicles connecting the swim bladder to the otoliths, [26] facilitating the detection of sound pressure.
 
-### Reproduction 
+## Size
 
-Goldfish can only grow to sexual maturity with enough water and the right nutrition. Most goldfish breed in captivity, particularly in pond settings. Breeding usually happens after a significant temperature change, often in spring. Males chase gravid female goldfish (females carrying eggs), and prompt them to release their eggs by bumping and nudging them. 
+## Vision
 
-of 
+## Hearing
 
-Won 
+## Reproduction
 
-* (O)
+https://en.wikipedia.org/wiki/Goldsh
 
-Carassius auratus by Alexander 
+Carassius auratus by Alexander Francis Lydon.
 
-Francis Lydon. 
+Three goldsh from Fish Swimming Amid Falling Flowers, a Song dynasty painting by Liu Cai (c. 1080–1120)
 
-Goldfish, like all cyprinids, are egg-layers. Their eggs are adhesive and attach to aquatic vegetation, typically 
+Male Prussian Carp (Carassius gibelio) showing lots of epithelial tubercles which appear at spawning time.
 
-dense plants such as Cabomba or Elodea or a spawning mop. The eggs hatch within 48 to 72 hours. 
+Goldfish can only grow to sexual maturity with enough water and the right nutrition. Most goldfish breed in captivity, particularly in pond settings. Breeding usually happens after a significant temperature change, often in spring. Males chase gravid female goldfish (females carrying eggs), and prompt them to release their eggs by bumping and nudging them.
 
-Within a week or so, the fry begins to assume its final shape, although a year may pass before they develop a 
+Goldfish, like all cyprinids, are egg-layers. Their eggs are adhesive and attach to aquatic vegetation, typically dense plants such as Cabomba or Elodea or a spawning mop. The eggs hatch within 48 to 72 hours.
 
-mature goldfish color; until then they are a metallic brown like their wild ancestors. In their first weeks of life, 
+Within a week or so, the fry begins to assume its final shape, although a year may pass before they develop a mature goldfish color; until then they are a metallic brown like their wild ancestors. In their first weeks of life, the fry grow quickly—an adaptation born of the high risk of getting devoured by the adult goldfish (or other fish and insects) in their environment.[27]
 
-the fry grow quickly—an adaptation born of the high risk of getting devoured by the adult goldfish (or other fish and insects) in their environment.[27] 
+Some highly selectively bred goldfish can no longer breed naturally due to their altered shape. The artificial breeding method called "hand stripping" can assist in breeding, but can harm the fish if not done correctly.[28] In captivity, adults may also eat young that they encounter.
 
-Some highly selectively bred goldfish can no longer breed naturally due to their altered shape. The artificial breeding method called "hand stripping" can assist in breeding, but can harm the fish if not done correctly.[28] In captivity, adults may also eat young that they encounter. 
+Goldfish are able to survive short periods of entirely anoxic conditions. Survival is shorter under higher temperatures, suggesting that this is a cold weather adaptation. Researchers speculate that this is specifically an adaptation to survival in frozen water bodies over winter.
 
-### Respiration 
+Energy is obtained from liver glycogen. This process depends upon a pyruvate decarboxylase – the first known [29][30] in vertebrates.
 
-Three goldfish from Fish Swimming Amid Falling Flowers, a Song 
+Although they are a freshwater fish, goldfish have been found in brackish water with a salinity of 17.[31]
 
-dynasty painting by Liu Cai 
+Goldfish are gregarious, displaying schooling behavior, as well as displaying the same types of feeding behaviors.
 
-(c. 1080–1120) 
+## Respiration
 
-Goldfish are able to survive short periods of entirely anoxic conditions. Survival is shorter under higher 
+## Salinity
 
-temperatures, suggesting that this is a cold weather adaptation. Researchers speculate that this is specifically 
+## Behavior
 
-an adaptation to survival in frozen water bodies over winter. 
+Goldsh - Wikipedia
 
-Energy is obtained from liver glycogen. This process depends upon a pyruvate decarboxylase – the first known in vertebrates.[29][30] 
+An aquarium of the 1850s of the type that contained Goldsh among other coldwater species.
 
-OF 
+Ryukin goldsh, Plate XIX in Goldsh and Their Culture in Japan, by Shinno suke Matsubara.
 
-### Salinity 
+Goldfish have learned behaviors, both as groups and as individuals, that stem from native carp behavior. They are a generalist species with varied feeding, breeding, and predator avoidance behaviors that contribute to their success. As fish, they can be described as "friendly" towards each other. Very rarely does a goldfish harm another goldfish, nor do the males harm the females during breeding. The only real threat that goldfish present to each other is competing for food. Commons, comets, and other faster varieties can easily eat all the food during a feeding before varieties can reach it. This can lead to stunted growth or possible starvation of fancier varieties when they are kept in a pond with their single-tailed brethren. As a result, care should be taken to combine only breeds with similar body type and swim characteristics.
 
-## Behavior 
+Goldfish have strong associative learning abilities, as well as social learning skills. In addition, their visual acuity allows them to distinguish between individual humans. Owners may notice that fish react favorably to them (swimming to the front of the glass, swimming rapidly around the tank, and going to the surface mouthing for food) while hiding when other people approach the tank. Over time, goldfish learn to associate their owners and other humans with food, often "begging" for food whenever their owners approach.[32]
 
-Although they are a freshwater fish, goldfish have been found in brackish water with a salinity of 17.[31] 
+Goldfish that have constant visual contact with humans also stop considering them to be a threat. After being kept in a tank for several weeks, sometimes months, it becomes possible to feed a goldfish by hand without it shying away.
 
-Male Prussian Carp (Carassius gibelio) showing lots of epithelial tubercles which appear at spawning time. 
+Goldfish have a memory-span of at least three months and can distinguish between different shapes, colors, and sounds.[33][34] By using positive reinforcement, goldfish can be trained to recognize and to react to light signals of different colors[35] or to perform tricks.[36] Fish respond to certain colors most evidently in relation to feeding.[32] Fish learn to anticipate feedings provided they occur at around the same time every day.
 
-Goldfish are gregarious, displaying schooling behavior, as well as displaying the same types of feeding behaviors. 
+## Cognitive abilities
 
-Goldfish have learned behaviors, both as groups and as individuals, that stem from native carp behavior. They are a generalist species with varied feeding, breeding, and predator avoidance behaviors that contribute to their success. As fish, they can be described as "friendly" towards each other. Very rarely does a goldfish harm 
+## Classification
 
-another goldfish, nor do the males harm the females during breeding. The only real threat that goldfish present to each other is competing for food. Commons, comets, and other faster varieties can easily eat all the food during a feeding before varieties can reach it. This can lead to stunted growth or possible starvation of fancier varieties when they are kept in a pond with their single-tailed brethren. As a result, care should be 
+## Western
 
-taken to combine only breeds with similar body type and swim characteristics. 
+Goldsh - Wikipedia
 
-< 
+Crucian Carp (Carassius carassius), around 6 months old, 7 cm, from Haarlem, Netherlands.
 
-O 
+Goldsh eggs.
 
-### Cognitive abilities 
+Newly hatched goldsh fry (Ryukin).
 
-Goldfish have strong associative learning abilities, as well as social learning skills. In addition, their visual 
+As with many other examples of animal, selective breeding of goldfish over centuries has produced several color variations, some of them far removed from the "golden" color of the original fish. There are also different body shapes, and fin and eye configurations. Some extreme versions of the goldfish live only in aquariums— they are much less hardy than varieties closer to the "wild" original. However, some variations are hardier, such as the Shubunkin. Currently, there are about 300 breeds recognized in China.[7] The vast majority of goldfish breeds today originated from China.[7] Some of the main varieties are:
 
-acuity allows them to distinguish between individual humans. Owners may notice that fish react favorably to 
+Goldsh - Wikipedia Common goldsh
 
-them (swimming to the front of the glass, swimming rapidly around the tank, and going to the surface mouthing for food) while hiding when other people approach the tank. Over time, goldfish learn to associate their owners and other humans with food, often "begging" for food whenever their owners approach.[32] 
+Black Telescope Bubble Eye
 
-An aquarium of the 1850s of the 
+Common Goldsh
 
-type that contained Goldfish among 
+come
 
-other coldwater species. 
+in a
 
-F 
+variety of colors including red,
 
-Goldfish that have constant visual contact with humans also stop considering them to be a threat. After being kept in a tank for several weeks, sometimes months, it becomes possible to feed a goldfish by hand without it shying away. 
+orange, "gold", white, black,
 
-Goldfish have a memory-span of at least three months and can distinguish between different shapes, colors, and sounds.[33][34] By using positive reinforcement, goldfish can be trained to recognize and to react to light 
+and yellow ('lemon') goldsh.
 
-signals of different colors[35] or to perform tricks.[36] Fish respond to certain colors most evidently in relation 
+The Black Telescope is a
 
-to feeding.[32] Fish learn to anticipate feedings provided they occur at around the same time every day. 
+black-colored variant of
 
-Ryukin goldfish, Plate XIX in Goldfish and Their Culture in Japan, 
+telescope goldsh that has a
 
-by Shinno suke Matsubara. 
+characteristic pair of protruding
 
-## Classification 
+eyes. It is also referred to as
 
-### Western 
+popeye, moor, kuro-demekin in
 
-As with many other examples of animal, selective breeding of goldfish over centuries has produced several color variations, some of them far removed from the "golden" color of the original fish. There are also different body shapes, and fin and eye configurations. Some extreme versions of the goldfish live only in aquariums— they are much less hardy than varieties closer to the "wild" original. However, some variations are hardier, such as the Shubunkin. Currently, there are about 300 breeds recognized in China.[7] The vast majority of goldfish breeds today originated from China.[7] Some of the main varieties are: 
+Japan and dragon-eye in
 
-Crucian Carp (Carassius carassius), around 6 months old, 7 cm, from Haarlem, Netherlands. 
+China.
 
-A 
+The small Bubble Eye has no
 
-Goldfish eggs. 
+dorsal n and upward pointing
 
-The 
+eyes accompanied by two large
 
-Newly hatched goldfish fry (Ryukin). 
+uid-lled sacs.
 
+Celestial Eye
 
+Comet
 
-| Common goldfish | | Black Telescope | | Bubble Eye | |
-| --- | --- | --- | --- | --- | --- |
-| Common Goldfish come in a variety of colors including red, orange, "gold", white, black, and yellow ('lemon') goldfish. | Q) | The Black Telescope is a black-colored variant of telescope goldfish that has a characteristic pair of protruding eyes. It is also referred to as popeye, moor, kuro-demekin in Japan and dragon-eye in China. |  | The small Bubble Eye has no dorsal fin and upward pointing eyes accompanied by two large fluid-filled sacs. |  |
-| Celestial Eye | | Comet | | Fantail | |
-| Celestial eye goldfish Choten gan has a double and a breed-defining pair upturned, telescope eyes pupils gazing skyward. | ® O | The comet or comet-tailed goldfish is a single-tailed variety in the United States. It is similar to the common goldfish, except slightly Smaller and slimmer, and is mainly distinguished by its long, deeply forked tail. | The or tail of with | The Fantail goldfish is the western form of the Ryukin and possesses an egg-shaped body, a high dorsal fin, a long quadruple caudal fin, and no shoulder hump. |  |
-| Lionhead | | Oranda | | Pearlscale | |
-| The lionhead has a hood. This fish is the precursor to the ranchu. |  | by a prominent raspberry-like hood (also known as wen or head growth) that encases the whole head and some with the entire face, except for the eyes and mouth. |  | The pearlscale or chinshurin in Japanese, is spherical-bodied with finnage similar to the fantail and veiltail. Its scales are protruded into white domes that resemble pearls. |  |
-| Pompom | | Ryukin | | Shubunkin | |
-| The Pompoms, pompons or hanafusa have bundles of loose fleshy outgrowths between the nostril, called nasal boquettes, on each side of the head. |  | The ryukin has a short, deep body with a characteristic shoulder hump. |  | The Japanese shubunkin (RX #) (translated literally as "red brocade") have a single tail with nacreous scales, and a pattern known as calico. |  |
-| Telescope | | Ranchu | | Panda Telescope | |
+Fantail
 
-The oranda is characterised 
+The Celestial eye goldsh
 
-The telescope is characterized by its 
+or Choten gan has a double
 
-protruding eyes. It is also 
+tail and a breed-dening pair
 
-known as the globe eye or 
+of upturned, telescope eyes
 
-dragon eye goldfish. 
+with pupils gazing skyward.
 
-The veiltail is known for its 
+The comet or comet-tailed
 
-extra-long, flowing double tail. 
+goldsh
 
-Modern veiltail standards 
+is a single-tailed
 
-require little or no indentation 
+variety in the United States. It
 
-of the trailing edges of the 
+is similar to the common
 
-caudal fins, as in a wedding 
+goldsh, except slightly
 
-veil for a bride. 
+smaller and slimmer, and is
 
-Veiltail 
+mainly distinguished by its
 
-Butterfly tail 
+long, deeply forked tail.
 
-Meteor goldfish 
+The Fantail goldsh is the western
 
-The butterfly tail moor or 
+form of the Ryukin and possesses
 
-butterfly telescope is of the 
+an egg-shaped body, a high dorsal
 
-telescope-eye lineage, with 
+n,
 
-twin broad tails best viewed 
+a long quadruple caudal n,
 
-from above. The spread of the 
+@
 
-caudal fins resembles 
+and no shoulder hump.
 
-butterflies underwater. 
+Lionhead
 
-The meteor goldfish is a strange- 
+Oranda
 
-looking variety that has been 
+Pearlscale
 
-developed by specialist breeders 
+The lionhead has a hood.
 
-of goldfish. It has no tail fin, hence 
+This sh is the precursor to
 
-its name. [37][38 
+the ranchu.
 
-The Japanese ranchu is 
+The oranda is characterised
 
-hooded. The Japanese refer to 
+by a prominent raspberry-like
 
-it as the "king of goldfish". 
+hood (also known as wen or
 
-The panda telescope is another 
+head growth) that encases the
 
-colored variant of telescope 
+whole head and some with the
 
-goldfish. 
+entire face, except for the eyes
 
-Lionchu 
+and mouth.
 
-Egg-fish goldfish 
+The pearlscale or chinshurin in
 
-Shukin 
+Japanese, is spherical-bodied with
 
-The Lionchu or lionhead- 
+nnage similar to the fantail and
 
-ranchu is a goldfish that has 
+veiltail. Its scales are protruded
 
-resulted from crossbreeding 
+into white domes that resemble
 
-lionheads and ranchus. 
+pearls.
 
-39][40] 
+Pompom
 
-The egg-fish goldfish is a 
+Ryukin
 
-goldfish that lacks a dorsal fin 
+Shubunkin
 
-and has a pronounced egg- 
+The Pompoms, pompons or
 
-shaped body." [41][42] 
+hanafusa have bundles of
 
-The Shukin is a Ranchu-like 
+loose eshy outgrowths
 
-goldfish developed from Ranchus 
+between the nostril, called
 
-and Orandas at the end of the 
+nasal boquettes, on each side
 
-19th century in Japan. 
+of the head.
 
-Curled-gill goldfish 
+The ryukin has a short, deep
 
-Tamasaba 
+body with a characteristic
 
-Tosakin 
+shoulder hump.
 
-The Curled-gill or Reversed- 
+The Japanese shubunkin
 
-gill goldfish is another 
+(朱⽂⾦)
 
-uncommon variety of goldfish 
+(translated literally as "red
 
-that has been developed by 
+brocade") have a single tail with
 
-specialist enthusiasts. . It owes 
+nacreous scales, and a pattern
 
-its name to the out-turned 
+known as calico.
 
-appearance of its gill 
+Telescope
 
-covers, [38][43] 
+Ranchu
 
-The Tamasaba or Sabao is an 
+Panda Telescope
 
-uncommon Japanese variety 
+Goldsh - Wikipedia White Telescope
 
-of goldfish with a body shaped 
+Jikin
 
-Similar to the Ryukin and a 
+Pool Fisheries, a goldsh farm in Lonoke, Arkansas
 
-very long, flowing, single tail 
+The White telescope is a white variant of telescope goldsh that has a white body and a characteristic pair of protruding eyes.
 
-that is similar to that of a 
+The Jikin is a breed of wakin
 
-comet goldfish, hence its other 
+like goldsh developed in
 
-name, comet-tail ryukin. 
+Japan.
 
-White Telescope 
+Chinese tradition classifies goldfish into four main types.[44] These classifications are not commonly used in the West.
 
-Jikin 
+* Crucian (also called "grass") — Goldsh without anatomical features, similar to Crucian carp or grass carp except for their coloration. These include the common goldsh, comet goldsh and Shubunkin.
 
-The Tosakin is a very distinctive 
+* Wen — Goldsh having a tail, e.g., fantails and veiltails. "Wen" is also the name of the characteristic headgrowth on such strains as oranda and lionhead.
 
-breed of goldfish with a large tail 
+* Dragon Eye — Goldsh having extended eyes, e.g., black moor, bubble eye, and telescope eye
 
-fin that spreads out horizontally 
+* Egg — Goldsh having no dorsal n, usually with an 'egg-shaped' body, e.g., lionhead. This group includes a bubble eye without a dorsal n.
 
-(like a fan) behind the fish, 
+Like most species in the carp family, goldfish produce a large amount of waste both in their feces and through their gills, releasing harmful chemicals into the water. Buildup of this waste to toxic levels can occur in a relatively short period of time, and can easily cause a goldfish's death. For common and comet varieties, each goldfish should have about 20 US gallons (76 L; 17 imp gal) of water. Smaller fantail goldfish should have about 10 US gallons (38 L; 8.3 imp gal) per goldfish. The water surface area determines how much oxygen diffuses and dissolves into the water. A general rule is have 1 square foot (0.093 m2 ). Active aeration by way of a water pump, filter or fountain effectively increases the surface area agitation.
 
-followed by the bottom tips folding 
+The goldfish is classified as a coldwater fish, and can live in unheated aquaria at a temperature comfortable for humans. However, rapid changes in temperature, for example in an office building in winter when the heat is
 
-behind its caudal fin. Though 
+turned off at night, can kill them, especially if the tank is small. Care must also be taken when adding water, as the new water may be of a different temperature. Temperatures under about 10 °C (50 °F) are dangerous to fancy varieties, though commons and comets can survive slightly lower
 
-technically a divided tail, the two 
+## Chinese
 
-halves are attached at the center, forming a single fin. 
+## Cultivation
 
-The White telescope is a 
+## In aquaria
 
-white variant of telescope 
+Goldsh - Wikipedia
 
-goldfish that has a white body 
+Goldsh by Henri Matisse, 1912
 
-and a characteristic pair of 
+Coldwater goldsh pond in Bury, England
 
-protruding eyes. 
+Red Oranda (Wen) goldsh reared in a small outdoor pond with lilies
 
-### Chinese 
+temperatures. Extremely high temperatures (over 30 °C (86 °F)) can also harm goldfish. However, higher temperatures may help fight protozoan infestations by accelerating the parasite's life cycle—thus eliminating it more quickly. The optimum temperature for goldfish is between 20 and 22 °C (68 and 72 °F).[45]
 
-Ys 
+Like all fish, goldfish do not like to be petted. In fact, touching a goldfish can endanger its health, because it can cause the protective slime coat to be damaged or removed, exposing the fish's skin to infection from bacteria or water-borne parasites. However, goldfish respond to people by surfacing at feeding time, and can be trained or acclimated to taking pellets or flakes from human fingers. The reputation of goldfish dying quickly is often due to poor care.[46] The lifespan of goldfish in captivity can extend beyond 10 years.[47]
 
-The Jikin is a breed of wakin- 
+If left in the dark for a period of time, goldfish gradually change color until they are almost gray.[48] Goldfish produce pigment in response to light, similarly to how human skin becomes tanned in the sun. Fish have cells called chromatophores that produce pigments that reflect light and give the fish coloration. The color of a goldfish is determined by their diet, water quality, and exposure to light, along with age and health.[48]
 
-like goldfish developed in 
+Because goldfish eat live plants, their presence in a planted aquarium can be problematic. Only a few aquarium plant species, such as Cryptocoryne and Anubias, can survive around goldfish, but they require special attention so that they are not uprooted.[49]
 
-Japan. 
+Goldfish are popular pond fish, since they are small, inexpensive, colorful, and very hardy. In an outdoor pond or water garden, they may even survive for brief periods if ice forms on the surface, as long as there is enough oxygen remaining in the water and the pond does not freeze solid. Common, London and Bristol shubunkins, jikin, wakin, comet and some hardier fantail goldfish can be kept in a pond year-round in temperate and subtropical climates. Moor, veiltail, oranda and lionhead can be kept safely in outdoor ponds year-round only in more tropical climates and elsewhere only in summer months.
 
-Chinese tradition classifies goldfish into four main types.[44] These classifications are not commonly used in the West. 
+Compatible fish include rudd, tench, orfe and koi, but the last require specialized care. Ramshorn snails are helpful by eating any algae that grows in the pond. Without some form of animal population control, goldfish ponds can easily become overstocked. Fish such as orfe consume goldfish eggs.
 
-Crucian (also called "grass") — Goldfish without anatomical features, similar to Crucian carp or grass carp except for their coloration. These include the common goldfish, comet goldfish and Shubunkin. 
+## In ponds
 
-Wen — Goldfish having a tail, e.g., fantails and veiltails. "Wen" is also the name of the characteristic headgrowth on such strains as oranda and lionhead. 
+Goldsh - Wikipedia
 
-Dragon Eye — Goldfish having extended eyes, e.g., black moor, bubble eye, and telescope eye 
+Various types of prepared sh food
 
-Egg — Goldfish having no dorsal fin, usually with an 'egg-shaped' body, e.g., lionhead. This group includes a bubble eye without a dorsal fin. 
+Ponds small and large are fine in warmer areas, though goldfish can "overheat" in small volumes of water in the summer in tropical climates. In frosty climes, the depth should be at least 80 centimeters (31 in) to preclude freezing. During winter, goldfish become sluggish, stop eating and often stay on the bottom of the pond. This is normal; they become active again in the spring. Unless the pond is large enough to maintain its own ecosystem without interference from humans, a filter is important to clear waste and keep the pond clean. Plants are essential as they act as part of the filtration system, as well as a food source for the fish. Plants are further beneficial since they raise oxygen levels in the water.
 
-## Cultivation 
+Like their wild ancestors, common and comet goldfish as well as shubunkin can survive, and even thrive, in any climate that can support a pond. [50][51] In general, when released into the wild, goldfish quickly take over the waterways as an invasive species.
 
-### In aquaria 
+In the wild, the diet of goldfish consists of crustaceans, insects, and various plant matter. Like most fish, they are opportunistic feeders and do not stop eating on their own accord. Overfeeding can be deleterious to their health, typically by blocking the intestines. This happens most often with selectively bred goldfish, which have a convoluted intestinal tract. When excess food is available, they produce more waste and feces, partly due to incomplete protein digestion. Overfeeding can sometimes be diagnosed by observing feces trailing from the fish's cloaca.
 
-Like most species in the carp family, goldfish produce a large amount of waste both in their feces and through their gills, releasing harmful chemicals into the water. Buildup of this waste to toxic levels can occur in a relatively short period of time, and can easily cause a goldfish's death. For common and comet varieties, each goldfish should have about 20 US gallons (76 L; 17 imp gal) of water. Smaller fantail goldfish should have about 10 US gallons (38 L; 8.3 imp gal) per goldfish. The water surface area determines how much oxygen diffuses and dissolves into the water. A general rule is have 1 square foot (0.093 m2). Active aeration by way of a water pump, filter or fountain effectively increases the surface area agitation. 
+Goldfish-specific food has less protein and more carbohydrate than conventional fish food. Enthusiasts may supplement this diet with shelled peas (with outer skins removed), blanched green leafy vegetables, and bloodworms. Young goldfish benefit from the addition of brine shrimp to their diet. As with all animals, goldfish preferences vary.
 
-Pool Fisheries, a goldfish farm in Lonoke, Arkansas 
+Like some other well-known aquarium fish, such as the guppy and mosquitofish, goldfish (and other carp) are frequently added to stagnant bodies of water in an attempt to reduce mosquito populations, which spread the vectors of diseases such as West Nile virus, malaria, and dengue. [52] However, introducing goldfish has often had negative consequences for local ecosystems, and their efficacy as pest control has never been compared to those of native fishes.
 
-The goldfish is classified as a coldwater fish, and can live in unheated aquaria at a temperature comfortable for humans. However, rapid changes in temperature, for example in an office building in winter when the heat is turned off at night, can kill them, especially if the tank is small. Care must also be taken when adding water, as the new water may be of a different temperature. Temperatures under about 10 °C (50 °F) are dangerous to fancy varieties, though commons and comets can survive slightly lower temperatures. Extremely high temperatures (over 30 °C (86 °F)) can also harm goldfish. However, higher temperatures may help fight protozoan infestations by accelerating the parasite's life cycle—thus eliminating it more quickly. The optimum temperature for goldfish is between 20 and 22 °C (68 and 72 °F).[45] 
+## Feeding
 
-| | 
+## For mosquito control
 
-A 
+## Market
 
-Like all fish, goldfish do not like to be petted. In fact, touching a goldfish can endanger its health, because it can cause the protective slime coat to be damaged or removed, exposing the fish's skin to infection from 
+Goldsh - Wikipedia
 
-bacteria or water-borne parasites. However, goldfish respond to people by surfacing at feeding time, and can be trained or acclimated to taking pellets or flakes from human fingers. The reputation of goldfish dying quickly is often due to poor care.[46] The lifespan of goldfish in captivity can extend beyond 10 years.[47] 
+## Welfare concerns
 
-If left in the dark for a period of time, goldfish gradually change color until they are almost gray.[48] Goldfish produce pigment in response to light, similarly to how human skin becomes tanned in the sun. Fish have cells called chromatophores that produce pigments that reflect light and give the fish coloration. The color of a goldfish is determined by their diet, water quality, and exposure to light, along with age and health.[48] 
+The Japanese game of goldsh scooping
 
-Because goldfish eat live plants, their presence in a planted aquarium can be problematic. Only a few aquarium plant species, such as Cryptocoryne and Anubias, can survive around goldfish, but they require special attention so that they are not uprooted.[49] 
+The market for live goldfish and other crucian carp usually imported from China was $1.2 million in 2018. Some high quality varieties cost between $125 and $300.[53]
 
-Goldfish by Henri Matisse, 1912 
+Fishbowls are detrimental to the health of goldfish and are prohibited by animal welfare legislation in several municipalities.[54][55] The practice of using bowls as permanent fish housing originated from a misunderstanding of Chinese "display" vessels: goldfish which were normally housed in ponds were, on occasion, temporarily displayed in smaller containers to be better admired by guests.[8]
 
-### In ponds 
+Goldfish kept in bowls or "mini-aquariums" suffer from death, disease, and stunting, due primarily to the low oxygen and very high ammonia/nitrite levels inherent in such an environment.[56] In comparison to other common aquarium fish, goldfish have high oxygen needs and produce a large amount of waste due to the fact they lack a stomach;[57] therefore they require a substantial volume of well-filtered water to thrive. In addition, all goldfish varieties have the potential to reach 5 inches (130 mm) in total length, with single-tailed breeds often exceeding 1 foot (0.30 m). Single-tailed varieties include common and comet goldfish.
 
-Coldwater goldfish pond in Bury, England 
+In many countries, carnival and fair operators commonly give goldfish away in plastic bags as prizes. In late 2005 Rome banned the use of goldfish and other animals as carnival prizes. Rome has also banned the use of "goldfish bowls", on animal cruelty grounds,[54] as well as Monza, Italy, in 2004.[55] In the United Kingdom, the government proposed banning this practice as part of its Animal Welfare Bill,[58][59] though this has since been amended to only prevent goldfish being given as prizes to unaccompanied minors.[60]
 
-Goldfish are popular pond fish, since they are small, inexpensive, colorful, and very hardy. In an outdoor pond or water garden, they may even survive for brief periods if ice forms on the surface, as long as there is enough oxygen remaining in the water and the pond does not freeze solid. Common, London and Bristol shubunkins, jikin, wakin, comet and some hardier fantail goldfish can be kept in a pond year-round in temperate and 
+In Japan, during summer festivals and religious holidays (ennichi), a traditional game called goldfish scooping is played, in which a player scoops goldfish from a basin with a special scooper. Sometimes bouncy balls are substituted for goldfish.
 
-subtropical climates. Moor, veiltail, oranda and lionhead can be kept safely 
+Although edible and closely related to some fairly widely eaten species, goldfish are rarely eaten. A fad among American college students for many [61] years was swallowing goldfish as a stunt and as a fraternity initiation process. The first recorded instance was in 1939 at Harvard University. The practice gradually fell out of popularity over the course of several decades and is rarely practiced today.
 
-in outdoor ponds year-round only in more tropical climates and elsewhere only in summer months. 
+Goldsh is one of the items used among the Haft-sin symbols of Nowruz. These are related to elements of Fire, Earth, Air, Water, and the three life forms of Humans, Animals and Plants.
 
-K 
+Some animal advocates have called for boycotts of goldfish purchases, citing industrial farming and low survival rates of the fish.[62][63]
 
-for 
+In Chinese history, goldfish was seen "as a symbol of luck and fortune". Moreover, only members of the Song dynasty could own goldfish.[64] In Iran and among the international Iranian diaspora, goldfish is a traditional part of Nowruz celebrations. Goldfish are usually placed on Haft-sin tables as a symbol of progress.[65]
 
-Red Oranda (Wen) goldfish reared in a small outdoor pond with lilies 
+Aquaculture
 
-Compatible fish include rudd, tench, orfe and koi, but the last require specialized care. Ramshorn snails are helpful by eating any algae that grows in the pond. Without some form of animal population control, goldfish ponds can easily become overstocked. Fish such as orfe consume goldfish eggs. 
+* List of goldsh varieties
 
-Ponds small and large are fine in warmer areas, though goldfish can "overheat" in small volumes of water in the summer in tropical climates. In frosty climes, the depth should be at least 80 centimeters (31 in) to preclude freezing. During winter, goldfish become sluggish, stop eating and often stay on the bottom of the pond. This is normal; they become active again in the spring. Unless the pond is large enough to maintain its own ecosystem without interference from humans, a filter is important to clear waste and keep the pond clean. Plants are essential as they act as part of the filtration system, as well as a food source for the fish. Plants are further beneficial since they raise oxygen levels in the water. 
+* Henri Matisse and goldsh
 
-Like their wild ancestors, common and comet goldfish as well as shubunkin can survive, and even thrive, in any climate that can support a pond. In general, when released into the wild, goldfish quickly take over the waterways as an invasive species.[50][51] 
+* 1. Huckstorf, V.; Freyhof, J. (2013). "Carassius auratus" (https://www.iucnredlist.org/species/166083/111047 2). IUCN Red List of Threatened Species. 2013: e.T166083A1110472. doi:10.2305/IUCN.UK.2013- 1.RLTS.T166083A1110472.en (https://doi.org/10.2305%2FIUCN.UK.2013-1.RLTS.T166083A1110472.en). Retrieved November 13, 2021.
 
-### Feeding 
+* 2. "USGS-NAS, Non-indigenous Aquatic Species" (https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesI D=508). Retrieved April 29, 2015.
 
-In the wild, the diet of goldfish consists of crustaceans, insects, and various plant matter. Like most fish, they are opportunistic feeders and do not stop eating on their own accord. Overfeeding can be deleterious to their health, typically by blocking the intestines. This happens most often with selectively bred goldfish, which have a convoluted intestinal tract. When excess food is available, they produce more waste and feces, partly due to incomplete protein digestion. Overfeeding can sometimes be diagnosed by observing feces trailing from the fish's cloaca. 
+* 3. "Carassius auratus (Linnaeus, 1758)" (http://www.shbase.org/Summary/speciesSummary.php?GenusNa me=Carassius&SpeciesName=auratus%20auratus). Fishbase. Retrieved April 29, 2015.
 
-Goldfish-specific food has less protein and more carbohydrate than conventional fish food. Enthusiasts may supplement this diet with shelled peas (with outer skins removed), blanched green leafy vegetables, and bloodworms. Young goldfish benefit from the addition of brine shrimp to their diet. As with all animals, 
+* 4. Helmore, Edward (July 12, 2021). "Goldsh dumped in lakes grow to monstrous size, threatening ecosystems" (https://www.theguardian.com/environment/2021/jul/12/goldsh-dumped-minnesota-lakes-thr
 
-goldfish preferences vary. 
+* eatening-ecosystems). The Guardian. Archived (https://archive.today/20210713205042/https://www.thegu ardian.com/environment/2021/jul/12/goldsh-dumped-minnesota-lakes-threatening-ecosystems) from the original on July 13, 2021.
 
-Various types of prepared fish food 
+* 5. Lynch, Jacqueline (April 23, 2024). "Ozsh volunteers trap dumped pet goldsh from Vasse River amid concerns about water quality" (https://www.abc.net.au/news/2024-04-24/pest-goldsh-vasse-river-water-q uality-concerns/103742088). ABC News. Retrieved April 27, 2024.
 
-### For mosquito control 
+## In popular culture
 
-Like some other well-known aquarium fish, such as the guppy and mosquitofish, goldfish (and other carp) are frequently added to stagnant bodies of water in an attempt to reduce mosquito populations, which spread the vectors of diseases such as West Nile virus, malaria, and dengue. However, introducing goldfish has often had negative consequences for local ecosystems,[52] and their efficacy as pest control has never been compared to those of native fishes. 
+## See also
 
-### Market 
+## References
 
-The market for live goldfish and other crucian carp usually imported from China was $1.2 million in 2018. Some high quality varieties cost between $125 and $300.[53] 
+Goldsh - Wikipedia
 
-## Welfare concerns 
+* 6. "Goldsh" (http://www.oceanpark.com.hk/html/en/learning/facts/gold sh.html). Ocean Park. Retrieved November 16, 2009.
 
-Fishbowls are detrimental to the health of goldfish and are prohibited by animal welfare legislation in several municipalities.[54][55] The practice of using bowls as permanent fish housing originated from a 
+* 7. Roots, Clive (2007). Domestication. Westport: Greenwood Press. pp. 20–21. ISBN 978-0-313-33987-5.
 
-misunderstanding of Chinese "display" vessels: goldfish which were normally housed in ponds were, on occasion, temporarily displayed in smaller containers to be better admired by guests.[8] 
+* 8. "Background information about goldsh" (http://www.bristol-aquarist s.org.uk/goldsh/info/info.htm). Bristol Aquarists' Society. Retrieved July 28, 2006.
 
-of 
+* 9. Nutran Aquatic News, Issue #4 (http://www.hagen.com/pdf/aquati c/Nutran_No4_English.pdf) Archived (https://web.archive.org/web/ 20070413152258/http://www.hagen.com/pdf/aquatic/Nutran_No4_ English.pdf) 2007-04-13 at the Wayback Machine, 2004, Rolf C. Hagen, Inc. (USA) and Rolf C. Hagen Corp. (Montreal, Canada)
 
-Goldfish kept in bowls or "mini-aquariums" suffer from death, disease, and stunting, due primarily to the low oxygen and very high ammonia/nitrite levels inherent in such an environment.[56] In comparison to other common aquarium fish, goldfish have high oxygen needs and produce a large amount of waste due to the fact 
+* 10. Smartt, Joseph (2001). Goldsh varieties and genetics: A handbook for breeders (https://archive.org/details/goldshvarietie00smar). Oxford: Blackwell Science. p. 21 (https://archive.org/details/goldsh varietie00smar/page/n30). ISBN 978-0-85238-265-3.
 
-they lack a stomach;[57] therefore they require a substantial volume of well-filtered water to thrive. In addition, all goldfish varieties have the potential to reach 5 inches (130 mm) in total length, with single-tailed 
+* 11. Chen, Duo; Zhang, Qing; Tang, Weiqi; Huang, Zhen; Wang, Gang; Wang, Yongjun; Shi, Jiaxian; Xu, Huimin; Lin, Lianyu; Li, Zhen; Chi, Wenchao; Huang, Likun; Xia, Jing; Zhang, Xingtan; Guo, Lin (November 24, 2020). "The evolutionary origin and domestication history of goldsh ( Carassius auratus )" (https://www.ncbi.nlm.nih.g ov/pmc/articles/PMC7703540). Proceedings of the National Academy of Sciences. 117 (47): 29775–29785.
 
-breeds often exceeding 1 foot (0.30 m). Single-tailed varieties include common and comet goldfish. 
+* Bibcode:2020PNAS..11729775C (https://ui.adsabs.harvard.edu/ab s/2020PNAS..11729775C). doi:10.1073/pnas.2005545117 (https://d oi.org/10.1073%2Fpnas.2005545117). ISSN 0027-8424 (https://sea rch.worldcat.org/issn/0027-8424). PMC 7703540 (https://www.ncbi. nlm.nih.gov/pmc/articles/PMC7703540). PMID 33139555 (https://pu bmed.ncbi.nlm.nih.gov/33139555).
 
-M. 
+* 12. Brunner, Bernd (2003). The Ocean at Home (https://archive.org/det ails/oceanathomeil00brun). New York: Princeton Architectural Press. ISBN 978-1-56898-502-2.
 
-The Japanese game of goldfish scooping 
+* 13. Mulertt, Hugo (1883). The Goldsh And Its Systematic Culture With A View To Prot (https://archive.org/details/goldshitssyste00mule). Cincinnati [McDonald & Eick, print.] Retrieved July 7, 2009.
 
-In many countries, carnival and fair operators commonly give goldfish away in plastic bags as prizes. In late 2005 Rome banned the use of goldfish and other animals as carnival prizes. Rome has also banned the use of "goldfish bowls", on animal cruelty grounds,[54] as well as Monza, Italy, in 2004.[55] In the United Kingdom, the government proposed banning this practice as part of its Animal Welfare Bill,[58][59] though this has since been amended to only prevent goldfish being given as prizes to unaccompanied minors.[60] 
+* 14. Laboratory, NOAA Great Lakes Environmental Research. "NOAA National Center for Research on Aquatic Invasive Species (NCRAIS)" (https://nas.er.usgs.gov/queries/greatlakes/FactSheet.as px?SpeciesID=508&Potential=N&Type=0). nas.er.usgs.gov. Retrieved December 16, 2020.
 
-In Japan, during summer festivals and religious holidays (ennichi), a traditional game called goldfish scooping is played, in which a player scoops goldfish from a basin with a special scooper. Sometimes bouncy balls are substituted for goldfish. 
+* 15. Komiyama, Tomoyoshi; Hiroyuki Kobayashi; Yoshio Tateno; Hidetoshi Inoko; Takashi Gojobori; Kazuho Ikeo (February 2009). "An evolutionary origin and selection process of goldsh". Gene. 430 (1–2): 5–11. doi:10.1016/j.gene.2008.10.019 (https://doi.org/10. 1016%2Fj.gene.2008.10.019). PMID 19027055 (https://pubmed.nc bi.nlm.nih.gov/19027055).
 
-Although edible and closely related to some fairly widely eaten species, goldfish are rarely eaten. A fad among American college students for many years was swallowing goldfish as a stunt and as a fraternity initiation process. The first recorded instance was in 1939 at Harvard University.[61] The practice gradually fell out of popularity over the course of several decades and is rarely practiced today. 
+* 16. Les Pearce. "Common Gold Fish" (https://web.archive.org/web/200 60528173947/http://www.aquarticles.com/articles/ponds/Pearce_Co mmon_Goldshhtml.htm). Aquarticles. Archived from the original (ht tp://www.aquarticles.com/articles/ponds/Pearce_Common_Goldsh html.htm) on May 28, 2006. Retrieved June 20, 2006.
 
-Some animal advocates have called for boycotts of goldfish purchases, citing industrial farming and low survival rates of the fish.[62][63] 
+17. Wang, Shu-Yan; Jing Luo; Robert W. Murphy; Shi-Fang Wu; Chu
 
-## In popular culture 
+Ling Zhu; Yun Gao; Ya-Ping Zhang (March 19, 2013). "Origin of
 
-## See also 
+* Chinese Goldsh and Sequential Loss of Genetic Diversity Accompanies New Breeds" (https://www.ncbi.nlm.nih.gov/pmc/articl es/PMC3602300). PLOS ONE. 430 (3): e59571. Bibcode:2013PLoSO...859571W (https://ui.adsabs.harvard.edu/ab s/2013PLoSO...859571W). doi:10.1371/journal.pone.0059571 (http s://doi.org/10.1371%2Fjournal.pone.0059571). PMC 3602300 (http s://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602300). PMID 23527220 (https://pubmed.ncbi.nlm.nih.gov/23527220).
 
-Aquaculture 
+* 18. Page, Lawrence M.; Burr, Brooks M. (1991). A eld guide to freshwater shes: North America north of Mexico. The Peterson eld guide series. National Audubon Society, National Wildlife Foundation, Roger Tory Peterson Institute. Boston: Houghton Mifin. ISBN 978-0-395-35307-3.
 
-List of goldfish varieties Henri Matisse and goldfish 
+* 19. "Goldsh history, colour and nnage, diseases, how to keep them, and how to breed them" (https://www.bristol-aquarists.org.uk/golds h/info/info.htm). www.bristol-aquarists.org.uk. Retrieved February 5, 2024.
 
-## References 
+* 20. "Giant goldsh 'simply amazing' " (http://news.bbc.co.uk/1/hi/englan d/kent/7352909.stm). BBC News. April 17, 2008. Retrieved July 17, 2010.
 
-In Chinese history, goldfish was seen "as a symbol of luck and fortune". Moreover, only members of the Song dynasty could own goldfish.[64] In Iran and among the international Iranian diaspora, goldfish is a traditional 
+Goldsh - Wikipedia
 
-part of Nowruz celebrations. Goldfish are usually placed on Haft-sin tables as a symbol of progress.[65] 
+* 21. "Surrey schoolboy catches 5lb goldsh in Dorset lake" (https://www. bbc.co.uk/news/uk-england-10649008). BBC News. July 15, 2010. Retrieved July 17, 2010.
 
-O 
+* 22. " 'Massive' goldsh weighing 9 pounds found in South Carolina lake" (https://www.nbcnews.com/news/us-news/massive-goldsh-w eighing-9-pounds-found-south-carolina-lake-n1250396). NBC News. December 8, 2020. Retrieved May 17, 2021.
 
-* 1. Huckstorf, V.; Freyhof, J. (2013). "Carassius auratus" (https://www.iucnredlist.org/species/166083/111047 2). IUCN Red List of Threatened Species. 2013: e.T166083A1110472. doi:10.2305/IUCN.UK.2013- 
-	+ 1.RLTS.T166083A1110472.en (https://doi.org/10.2305%2FIUCN.UK.2013-1.RLTS.T166083A1110472.en). Retrieved November 13, 2021.
-	+ 2. "USGS-NAS, Non-indigenous Aquatic Species" (https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesI D=508). Retrieved April 29, 2015.
-	+ 3. "Carassius auratus (Linnaeus, 1758)" (http://www.fishbase.org/Summary/speciesSummary.php?GenusNa me=Carassius&SpeciesName=auratus%20auratus). Fishbase. Retrieved April 29, 2015.
-	+ 4. Helmore, Edward (July 12, 2021). "Goldfish dumped in lakes grow to monstrous size, threatening ecosystems" (https://www.theguardian.com/environment/2021/jul/12/goldfish-dumped-minnesota-lakes-thr eatening-ecosystems). The Guardian. Archived (https://archive.today/20210713205042/https://www.thegu ardian.com/environment/2021/jul/12/goldfish-dumped-minnesota-lakes-threatening-ecosystems) from the original on July 13, 2021.
-	+ 5. Lynch, Jacqueline (April 23, 2024). "Ozfish volunteers trap dumped pet goldfish from Vasse River amid concerns about water quality" (https://www.abc.net.au/news/2024-04-24/pest-goldfish-vasse-river-water-q uality-concerns/103742088). ABC News. Retrieved April 27, 2024. S S 
-	
-	((N 
-	
-	Goldfish is one of the items used 
-	
-	among the Haft-sin symbols of 
-	
-	Nowruz. These are related to 
-	
-	elements of Fire, Earth, Air, Water, 
-	
-	and the three life forms of Humans, Animals and Plants.
-	+ 6. "Goldfish" (http://www.oceanpark.com.hk/html/en/learning/facts/gold fish.html). Ocean Park. Retrieved November 16, 2009.
-	+ 7. Roots, Clive (2007). Domestication. Westport: Greenwood Press. 
-		- pp. 20–21. ISBN 978-0-313-33987-5.
-	+ 8. "Background information about goldfish" (http://www.bristol-aquarist s.org.uk/goldfish/info/info.htm). Bristol Aquarists' Society. Retrieved July 28, 2006.
-	+ 9. Nutrafin Aquatic News, Issue #4 (http://www.hagen.com/pdf/aquati c/Nutrafin\_No4\_English.pdf) Archived (https://web.archive.org/web/ 20070413152258/http://www.hagen.com/pdf/aquatic/Nutrafin\_No4\_ English.pdf) 2007-04-13 at the Wayback Machine, 2004, Rolf C. Hagen, Inc. (USA) and Rolf C. Hagen Corp. (Montreal, Canada)
-	+ 10. Smartt, Joseph (2001). Goldfish varieties and genetics: A handbook for breeders (https://archive.org/details/goldfishvarietie00smar). Oxford: Blackwell Science. p. 21 (https://archive.org/details/goldfish varietie00smar/page/n30). ISBN 978-0-85238-265-3.
-	+ 11. Chen, Duo; Zhang, Qing; Tang, Weiqi; Huang, Zhen; Wang, Gang; Wang, Yongjun; Shi, Jiaxian; Xu, Huimin; Lin, Lianyu; Li, Zhen; Chi, Wenchao; Huang, Likun; Xia, Jing; Zhang, Xingtan; Guo, Lin (November 24, 2020). "The evolutionary origin and domestication history of goldfish ( Carassius auratus )" (https://www.ncbi.nlm.nih.g ov/pmc/articles/PMC7703540). Proceedings of the National Academy of Sciences. 117 (47): 29775–29785. 
-	
-	Bibcode:2020PNAS..11729775C (https://ui.adsabs.harvard.edu/ab s/2020PNAS..11729775C). doi:10.1073/pnas.2005545117 (https://d oi.org/10.1073%2Fpnas.2005545117). ISSN 0027-8424 (https://sea rch.worldcat.org/issn/0027-8424). PMC 7703540 (https://www.ncbi. nlm.nih.gov/pmc/articles/PMC7703540). PMID 33139555 (https://pu bmed.ncbi.nlm.nih.gov/33139555).
-	+ 12. Brunner, Bernd (2003). The Ocean at Home (https://archive.org/det ails/oceanathomeil00brun). New York: Princeton Architectural Press. ISBN 978-1-56898-502-2.
-	+ 13. Mulertt, Hugo (1883). The Goldfish And Its Systematic Culture With A View To Profit (https://archive.org/details/goldfishitssyste00mule). Cincinnati [McDonald & Eick, print.] Retrieved July 7, 2009.
-	+ 14. Laboratory, NOAA Great Lakes Environmental Research. "NOAA National Center for Research on Aquatic Invasive Species (NCRAIS)" (https://nas.er.usgs.gov/queries/greatlakes/FactSheet.as px?SpeciesID=508&Potential=N&Type=0). nas.er.usgs.gov. Retrieved December 16, 2020.
-	+ 15. Komiyama, Tomoyoshi; Hiroyuki Kobayashi; Yoshio Tateno; Hidetoshi Inoko; Takashi Gojobori; Kazuho Ikeo (February 2009). 
-	
-	"An evolutionary origin and selection process of goldfish". Gene. 430 (1–2): 5–11. doi:10.1016/j.gene.2008.10.019 (https://doi.org/10. 1016%2Fj.gene.2008.10.019). PMID 19027055 (https://pubmed.nc bi.nlm.nih.gov/19027055).
-	+ 16. Les Pearce. "Common Gold Fish" (https://web.archive.org/web/200 60528173947/http://www.aquarticles.com/articles/ponds/Pearce\_Co mmon\_Goldfishhtml.htm). Aquarticles. Archived from the original (ht tp://www.aquarticles.com/articles/ponds/Pearce\_Common\_Goldfish html.htm) on May 28, 2006. Retrieved June 20, 2006.
-	+ 17. Wang, Shu-Yan; Jing Luo; Robert W. Murphy; Shi-Fang Wu; Chu- Ling Zhu; Yun Gao; Ya-Ping Zhang (March 19, 2013). "Origin of Chinese Goldfish and Sequential Loss of Genetic Diversity Accompanies New Breeds" (https://www.ncbi.nlm.nih.gov/pmc/articl es/PMC3602300). PLOS ONE. 430 (3): e59571. 
-	
-	Bibcode:2013PLoSO...859571W (https://ui.adsabs.harvard.edu/ab s/2013PLoSO...859571W). doi:10.1371/journal.pone.0059571 (http s://doi.org/10.1371%2Fjournal.pone.0059571). PMC 3602300 (http s://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602300). 
-	
-	PMID 23527220 (https://pubmed.ncbi.nlm.nih.gov/23527220).
-	+ 18. Page, Lawrence M.; Burr, Brooks M. (1991). A field guide to freshwater fishes: North America north of Mexico. The Peterson field guide series. National Audubon Society, National Wildlife Foundation, Roger Tory Peterson Institute. Boston: Houghton Mifflin. ISBN 978-0-395-35307-3.
-	+ 19. "Goldfish history, colour and finnage, diseases, how to keep them, and how to breed them" (https://www.bristol-aquarists.org.uk/goldfis h/info/info.htm). www.bristol-aquarists.org.uk. Retrieved February 5, 2024.
-	+ 20. "Giant goldfish 'simply amazing' " (http://news.bbc.co.uk/1/hi/englan d/kent/7352909.stm). BBC News. April 17, 2008. Retrieved July 17, 2010.
-	+ 21. "Surrey schoolboy catches 5lb goldfish in Dorset lake" (https://www. bbc.co.uk/news/uk-england-10649008). BBC News. July 15, 2010. Retrieved July 17, 2010.
-	+ 22. " 'Massive' goldfish weighing 9 pounds found in South Carolina lake" (https://www.nbcnews.com/news/us-news/massive-goldfish-w eighing-9-pounds-found-south-carolina-lake-n1250396). NBC News. December 8, 2020. Retrieved May 17, 2021.
-	+ 23. Neumeyer, C. (2003). "Color Vision in Fishes and Its Neural Basis". In Collin, S.P.; Marshall, N.J. (eds.). Sensory Processing in Aquatic Environments (https://archive.org/details/sensoryprocessin00bull). New York: Springer-Verlag. p. 223 (https://archive.org/details/senso ryprocessin00bull/page/n253). ISBN 9780387955278.
-	+ 24. Neumeyer, Christa (1988). Das Farbensehen des Goldfisches: Eine verhaltensphysiologische Analyse. G. Thieme. ISBN 978- 3137187011.
-	+ 25. Ladich, F., & Fay, R. 
-		- R. (2013). Auditory evoked potential audiometry in fish. Reviews in Fish Biology and Fisheries, 23(3), 317–364.
-	+ 26. Fay, R. R., & Popper, A. N. (1974). Acoustic stimulation of the ear of the goldfish (Carassius auratus). Journal of Experimental Biology, 61(1), 243–260.
-	+ 27. Loh, Richmond. "Goldfish (Carassius auratus)" (https://web.archive. org/web/20140127141326/http://thefishvet.com.au/pdf/Care\_Gf\_by RL.pdf) (PDF). The Fish Vet.com. Archived from the original (http://t hefishvet.com.au/pdf/Care\_Gf\_byRL.pdf) (PDF) on January 27, 2014. Retrieved December 31, 2013.
-	+ 28. "Techniques for Taking and Fertilizing the Spawn of Fish" (https://fis heries.tamu.edu/files/2013/09/SRAC-Publication-No.-426-Techniqu es-for-Taking-and-Fertilizing-the-Spawn-of-Fish.pdf) (PDF). 1991. Retrieved February 5, 2024.
-	+ 29. Walker, R. M.; Johansen, P. H. (1977). "Walker, R. M., & Johansen, P. H. (1977). Anaerobic metabolism in goldfish (Carassius auratus). Canadian Journal of Zoology, 55(8), 1304–1311. doi:10.1139/z77- 170" (http://cdnsciencepub.com/doi/10.1139/z77-170). Canadian Journal of Zoology. 55 (8): 1304–11. doi:10.1139/z77-170 (https://d oi.org/10.1139%2Fz77-170). PMID 902178 (https://pubmed.ncbi.nl m.nih.gov/902178).
-	+ 30. Fagernes, C. E.; Stensløkken, K. O.; Berenbrink, M.; Ellefsen, S.; 
-	
-	Nilsson, G. E. (2017). "Fagernes, C.E., Stensløkken, K., Røhr, Å.K. et al. Extreme anoxia tolerance in crucian carp and goldfish through neofunctionalization of duplicated genes creating a new ethanol- producing pyruvate decarboxylase pathway. Sci Rep 7, 7884 (2017). DOI: 10.1038/s41598-017-07385-4" (https://www.ncbi.nlm.n ih.gov/pmc/articles/PMC5554223). Scientific Reports. 7 (1): 7884. doi:10.1038/s41598-017-07385-4 (https://doi.org/10.1038%2Fs415 98-017-07385-4). PMC 5554223 (https://www.ncbi.nlm.nih.gov/pm c/articles/PMC5554223). PMID 28801642 (https://pubmed.ncbi.nlm. nih.gov/28801642).
-	+ 31. Tweedley, James R.; Hallett, Chris S.; Beatty, Stephen J. (September 2017). "Tweedley, J.R., Hallett, C.S. & Beatty, S.J. Baseline survey of the fish fauna of a highly eutrophic estuary and evidence for its colonisation by Goldfish (Carassius auratus). Int Aquat Res 9, 259–270 (2017). DOI: 10.1007/s40071-017-0174-1" (https://doi.org/10.1007%2Fs40071-017-0174-1). International Aquatic Research. 9 (3): 259–270. doi:10.1007/s40071-017-0174-1 (https://doi.org/10.1007%2Fs40071-017-0174-1). S2CID 59358196 (https://api.semanticscholar.org/CorpusID:59358196).
-	+ 32. Plumer, Brad (June 9, 2016). "This is unsettling: fish can recognize human faces" (https://www.vox.com/2016/6/9/11889508/fish-facial-r ecognition). Vox. Retrieved February 5, 2024.
-	+ 33. Research by the School of Psychology at the University of Plymouth in 1994. Goldfish were trained to push a lever to earn a food reward; when the lever was fixed to work only for an hour a day, the fish soon learned to activate it at the correct time. See: Gee, P; Stephenson, D; Wright, DE (July 1994). "Temporal discrimination learning of operant feeding in goldfish" (https://www.n cbi.nlm.nih.gov/pmc/articles/PMC1334363). Journal of the Experimental Analysis of Behavior. 62 (1): 1–13. doi:10.1901/jeab.1994.62-1 (https://doi.org/10.1901%2Fjeab.1994.6 2-1). PMC 1334363 (https://www.ncbi.nlm.nih.gov/pmc/articles/PM C1334363). PMID 16812735 (https://pubmed.ncbi.nlm.nih.gov/1681 2735).
-	+ 34. The Discovery Channel's show MythBusters tested the contemporary legend that goldfish only had a memory span of three seconds and were able to prove that goldfish had a longer memory span than commonly believed. The experiment involved training the fish to navigate a maze. It was evident that they were able to remember the correct path of the maze after more than a month. MythBuster Results: A goldfish’s memory lasts only three seconds (https://web.archive.org/web/20070626043452/http://mythbustersre sults.com/episode11)[usurped]
-	+ 35. Demonstrated in a 1994 public experiment at the Palais de la Découverte science museum. The experimental details and results are described in: "Poissons rouges: la mémoire dans l'eau". Revue du Palais de la Découverte. 217. April 1994.
-	+ 36. "Send Your Fish to School" (https://abcnews.go.com/story?id=4803 721). ABC News. May 7, 2008. Retrieved December 28, 2012.
-	+ 37. Fancy Goldfish Varieties, Bristol Aquarists' Society, Bristol- Aquarists.org (http://www.bristol-aquarists.org.uk/goldfish/goldfish.h tm), retrieved on: June 20, 2007
-	+ 38. Andrews, Dr. Chris. "An Interpet Guide to Fancy Goldfish", Interpet Publishing, 2002 - ISBN 1-902389-64-6
-	+ 39. " "What is a Lionchu?" by Peter Ponzio, an article from the Goldfish Pages Website (Goldfish Society of America), date retrieved: 28 February 2013" (https://web.archive.org/web/20110725073933/htt p://www.goldfishpages.com/Articles/What%20is%20a%20Lionchu.p df) (PDF). Archived from the original (http://www.goldfishpages.co m/Articles/What%20is%20a%20Lionchu.pdf) (PDF) on July 25, 2011.
-	+ 40. " "GFSA - Ask the Judges", an article about the Lionchu by Larry Christensen, Peter Ponzio, Scott Taylor, Tony Reynolds and John Parker, from the Goldfish Pages Website (Goldfish Society of America), date retrieved: 28 February 2013" (https://web.archive.or g/web/20110725074035/http://www.goldfishpages.com/Articles/GFS A%20Ask%20the%20Judges%2C%20Ranchus.pdf) (PDF). Archived from the original (http://www.goldfishpages.com/Articles/G FSA%20Ask%20the%20Judges%2C%20Ranchus.pdf) (PDF) on July 25, 2011.
-	+ 41. Andrews, Chris, Dr. An Interpet Guide to Fancy Goldfish, Interpet Publishing, 2002. - ISBN 1-902389-64-6
-	+ 42. "Nutrafin Aquatic News, Issue #4, 2004, Rolf C. Hagen, Inc. (USA) and Rolf C. Hagen Corp. (Montreal, Canada)" (https://web.archive.o rg/web/20111121090523/http://hagen.com/usa/aquatic/more.cfm). Hagen.com. Archived from the original (http://www.hagen.com/usa/ aquatic/more.cfm) on November 21, 2011. Retrieved November 19, 2011.
-	+ 43. Johnson, Dr. Erik L., D.V.M. and Richard E. Hess. Fancy Goldfish: A Complete Guide to Care and Collecting, Shambhala Publications, Inc., 2001 - ISBN 0-8348-0448-4
-	+ 44. "Evolution and Varieties of Goldfish" (https://web.archive.org/web/2 0160110164203/http://www.cnaquafish.com/html\_news/QiYeXinWe nTest-2-3.html). Archived from the original (http://www.cnaquafish.c om/html\_news/QiYeXinWenTest-2-3.html) on January 10, 2016. Retrieved August 2, 2015.
-	+ 45. "Goldfish" (https://web.archive.org/web/20100728043700/http://ww w.mypets.net.au/flex/goldfish/528/1). Mypets.net.au. Archived from the original (http://www.mypets.net.au/flex/goldfish/528/1) on July 28, 2010. Retrieved November 19, 2011.
-	+ 46. "Goldfish" (https://web.archive.org/web/20111212210227/http://ww w.experiencefestival.com/goldfish). Experiencefestival.com. Archived from the original (http://www.experiencefestival.com/goldfi sh) on December 12, 2011. Retrieved November 19, 2011.
-	+ 47. "Goldfish has brain operation" (https://www.bbc.com/news/2921099 1). BBC News. September 15, 2014.
-	+ 48. "Frequent question: Why do Goldfish Change Color?" (https://www. nativefish.org/frequent-question-why-do-goldfish-change-color/). Native Fish. August 25, 2021. Retrieved February 5, 2024.
-	+ 49. "Planted Tanks for Goldfish" (https://injaf.org/aquarium-fish/the-goldf ish-section/planted-tanks-for-goldfish/). INJAF. Retrieved February 5, 2024.
-	+ 50. "Goldfish" (https://www.invasivespeciescentre.ca/invasive-species/ meet-the-species/fish-and-invertebrates/goldfish/). Invasive Species Centre. Retrieved February 5, 2024.
-	+ 51. Yin, Steph (September 22, 2016). "In the Wild, Goldfish Turn From Pet to Pest" (https://www.nytimes.com/2016/09/23/science/discarde d-goldfish-invasive-species.html). The New York Times. ISSN 0362- 4331 (https://search.worldcat.org/issn/0362-4331). Retrieved February 5, 2024.
-	+ 52. William L. Arnold; William L. Anderson (2001). Biotechnology Deskbook (https://books.google.com/books?id=lNkwt3gX-2cC&q=g oldfish+released+into+the+wild&pg=PA154). Environmental Law Institute. p. 154. ISBN 978-1-58576-029-9.
-	+ 53. Selyukh, Alina (October 16, 2019). "The Goldfish Tariff: Fancy Pet Fish Among The Stranger Casualties Of The Trade War" (https://ww w.npr.org/2019/10/16/768553956/the-goldfish-tariff-fancy-pet-fish-a mong-the-stranger-casualties-of-the-trade-wa). NPR. Retrieved October 17, 2019.
-	+ 54. Knight, Sam (October 26, 2005). "Rome bans goldfish bowls, orders dog owners on walks – World – Times Online" (https://archiv e.today/20060105045820/http://www.timesonline.co.uk/article/0,,13 509-1844070,00.html). The Times. London. Archived from the original (http://www.timesonline.co.uk/article/0,,13509-1844070,00.h tml) on January 5, 2006. Retrieved July 21, 2006.
-	+ 55. "Council bans goldfish bowls" (http://www.abc.net.au/news/2004-07 -24/council-bans-goldfish-bowls/2014352). ABC Australian Broadcast Corporation. July 23, 2004. Retrieved April 21, 2015.
-	+ 56. "5 reasons not to use goldfish bowls" (https://web.archive.org/web/2 0180525162142/http://goldfishcareguide.com/2008/03/05/5-reasons -not-to-use-goldfish-bowls/). Goldfish Care Guide. March 5, 2008. Archived from the original (http://goldfishcareguide.com/2008/03/05/ 5-reasons-not-to-use-goldfish-bowls/) on May 25, 2018. Retrieved February 1, 2009.
-	+ 57. "goldie" (https://injaf.org/aquarium-fish/the-goldfish-section/goldfish- and-their-diet/). goldfishsection. Retrieved February 1, 2022.
-	+ 58. "Defra, UK – Animal Health and Welfare – Animal Welfare – Animal Welfare Bill" (https://web.archive.org/web/20060820191520/http://w ww.defra.gov.uk/animalh/welfare/bill/index.htm). Archived from the original (http://www.defra.gov.uk/animalh/welfare/bill/index.htm) on August 20, 2006. Retrieved July 21, 2006.
-	+ 59. BBC News Online - Goldfish are no longer to be given as prizes (htt p://news.bbc.co.uk/1/hi/magazine/3893889.stm)
-	+ 60. BBC News Online - Ban on goldfish prizes 'dropped' (http://news.bb c.co.uk/1/hi/uk\_politics/4174457.stm)
-	+ 61. "Swallowing Goldfish" (https://web.archive.org/web/2006061803474 8/http://library.thinkquest.org/3205/SwalG.html). Archived from the original (http://library.thinkquest.org/3205/SwalG.html) on June 18, 2006. Retrieved July 21, 2006.
-	+ 62. Laylin, Tafline (March 19, 2012). "5 Million Goldfish Die for Nowruz 
-		- – the Iranian New Year" (https://greenprophet.com/2012/03/goldfish -nowruz-iranian-new-year/). Green Prophet.
-	+ 63. "Iran: A Nowruz New Year Without Goldfish? · Global Voices" (http s://globalvoices.org/2012/03/16/iran-a-nowruz-new-year-without-gol dfish/). March 16, 2012.
-	+ 64. Gulliver, Katrina (November 1, 2012). "The Great Goldfish Invasion: How an Exotic Carp Took Over America" (https://www.theatlantic.co m/national/archive/2012/11/the-great-goldfish-invasion-how-an-exoti c-carp-took-over-america/264420/). The Atlantic. Retrieved February 5, 2024.
-	+ 65. Fulton, April; Ardalan, Davar (March 20, 2016). "Nowruz: Persian New Year's Table Celebrates Spring Deliciously" (https://www.npr.or g/sections/thesalt/2016/03/20/471174857/nowruz-persian-new-year s-table-celebrates-spring-deliciously). NPR.org. Retrieved March 24, 2021.
-## External links 
+* 23. Neumeyer, C. (2003). "Color Vision in Fishes and Its Neural Basis". In Collin, S.P.; Marshall, N.J. (eds.). Sensory Processing in Aquatic Environments (https://archive.org/details/sensoryprocessin00bull). New York: Springer-Verlag. p. 223 (https://archive.org/details/senso ryprocessin00bull/page/n253). ISBN 9780387955278.
 
-"Carassius auratus" (https://www.itis.gov/servlet/SingleRpt/SingleRpt?search\_topic=TSN&search\_value=163350). Integrated Taxonomic Information System. Retrieved October 5, 2004. 
+* 24. Neumeyer, Christa (1988). Das Farbensehen des Goldsches: Eine verhaltensphysiologische Analyse. G. Thieme. ISBN 978- 3137187011.
 
-Froese, Rainer, and Daniel Pauly, eds. (2004). Carassius auratus auratus (http://fishbase.se/summary/SpeciesSummary.php?id=271) in FishBase. September 2004 version. 
+* 25. Ladich, F., & Fay, R. R. (2013). Auditory evoked potential audiometry in sh. Reviews in Fish Biology and Fisheries, 23(3), 317–364.
 
-Goldfish Types (https://goldfishmania.com/goldfish-types/) Archived (https://web.archive.org/web/20221207015905/https://goldfishmania.com/ goldfish-types/) 2022-12-07 at the Wayback Machine — Description of 50 plus varieties of goldfish with pictures 
+* 26. Fay, R. R., & Popper, A. N. (1974). Acoustic stimulation of the ear of the goldsh (Carassius auratus). Journal of Experimental Biology, 61(1), 243–260.
 
-Bristol Aquarists' Society: Goldfish (http://www.bristol-aquarists.org.uk/goldfish/goldfish.htm) — Photographs and descriptions of the different goldfish varieties 
+* 27. Loh, Richmond. "Goldsh (Carassius auratus)" (https://web.archive. org/web/20140127141326/http://theshvet.com.au/pdf/Care_Gf_by RL.pdf) (PDF). The Fish Vet.com. Archived from the original (http://t heshvet.com.au/pdf/Care_Gf_byRL.pdf) (PDF) on January 27, 2014. Retrieved December 31, 2013.
 
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Goldfish&oldid=1264447576" 
+* 28. "Techniques for Taking and Fertilizing the Spawn of Fish" (https://s heries.tamu.edu/les/2013/09/SRAC-Publication-No.-426-Techniqu es-for-Taking-and-Fertilizing-the-Spawn-of-Fish.pdf) (PDF). 1991. Retrieved February 5, 2024.
 
+* 29. Walker, R. M.; Johansen, P. H. (1977). "Walker, R. M., & Johansen, P. H. (1977). Anaerobic metabolism in goldsh (Carassius auratus). Canadian Journal of Zoology, 55(8), 1304–1311. doi:10.1139/z77- 170" (http://cdnsciencepub.com/doi/10.1139/z77-170). Canadian Journal of Zoology. 55 (8): 1304–11. doi:10.1139/z77-170 (https://d oi.org/10.1139%2Fz77-170). PMID 902178 (https://pubmed.ncbi.nl m.nih.gov/902178).
+
+* 30. Fagernes, C. E.; Stensløkken, K. O.; Berenbrink, M.; Ellefsen, S.; Nilsson, G. E. (2017). "Fagernes, C.E., Stensløkken, K., Røhr, Å.K. et al. Extreme anoxia tolerance in crucian carp and goldsh through neofunctionalization of duplicated genes creating a new ethanol producing pyruvate decarboxylase pathway. Sci Rep 7, 7884 (2017). DOI: 10.1038/s41598-017-07385-4" (https://www.ncbi.nlm.n ih.gov/pmc/articles/PMC5554223). Scientic Reports. 7 (1): 7884. doi:10.1038/s41598-017-07385-4 (https://doi.org/10.1038%2Fs415 98-017-07385-4). PMC 5554223 (https://www.ncbi.nlm.nih.gov/pm c/articles/PMC5554223). PMID 28801642 (https://pubmed.ncbi.nlm. nih.gov/28801642).
+
+* 31. Tweedley, James R.; Hallett, Chris S.; Beatty, Stephen J. (September 2017). "Tweedley, J.R., Hallett, C.S. & Beatty, S.J. Baseline survey of the sh fauna of a highly eutrophic estuary and evidence for its colonisation by Goldsh (Carassius auratus). Int Aquat Res 9, 259–270 (2017). DOI: 10.1007/s40071-017-0174-1" (https://doi.org/10.1007%2Fs40071-017-0174-1). International Aquatic Research. 9 (3): 259–270. doi:10.1007/s40071-017-0174-1 (https://doi.org/10.1007%2Fs40071-017-0174-1). S2CID 59358196 (https://api.semanticscholar.org/CorpusID:59358196).
+
+* 32. Plumer, Brad (June 9, 2016). "This is unsettling: sh can recognize human faces" (https://www.vox.com/2016/6/9/11889508/sh-facial-r ecognition). Vox. Retrieved February 5, 2024.
+
+* 33. Research by the School of Psychology at the University of Plymouth in 1994. Goldsh were trained to push a lever to earn a food reward; when the lever was xed to work only for an hour a day, the sh soon learned to activate it at the correct time. See: Gee, P; Stephenson, D; Wright, DE (July 1994). "Temporal discrimination learning of operant feeding in goldsh" (https://www.n cbi.nlm.nih.gov/pmc/articles/PMC1334363). Journal of the Experimental Analysis of Behavior. 62 (1): 1–13. doi:10.1901/jeab.1994.62-1 (https://doi.org/10.1901%2Fjeab.1994.6 2-1). PMC 1334363 (https://www.ncbi.nlm.nih.gov/pmc/articles/PM C1334363). PMID 16812735 (https://pubmed.ncbi.nlm.nih.gov/1681 2735).
+
+Goldsh - Wikipedia
+
+* 34. The Discovery Channel's show MythBusters tested the contemporary legend that goldsh only had a memory span of three seconds and were able to prove that goldsh had a longer memory span than commonly believed. The experiment involved training the sh to navigate a maze. It was evident that they were able to remember the correct path of the maze after more than a month. MythBuster Results: A goldsh’s memory lasts only three seconds (https://web.archive.org/web/20070626043452/http://mythbustersre sults.com/episode11)[usurped]
+
+* 35. Demonstrated in a 1994 public experiment at the Palais de la Découverte science museum. The experimental details and results are described in: "Poissons rouges: la mémoire dans l'eau". Revue du Palais de la Découverte. 217. April 1994.
+
+* 36. "Send Your Fish to School" (https://abcnews.go.com/story?id=4803 721). ABC News. May 7, 2008. Retrieved December 28, 2012.
+
+* 37. Fancy Goldsh Varieties, Bristol Aquarists' Society, Bristol Aquarists.org (http://www.bristol-aquarists.org.uk/goldsh/goldsh.h tm), retrieved on: June 20, 2007
+
+* 38. Andrews, Dr. Chris. "An Interpet Guide to Fancy Goldsh", Interpet Publishing, 2002 - ISBN 1-902389-64-6
+
+* 39. " "What is a Lionchu?" by Peter Ponzio, an article from the Goldsh Pages Website (Goldsh Society of America), date retrieved: 28 February 2013" (https://web.archive.org/web/20110725073933/htt p://www.goldshpages.com/Articles/What%20is%20a%20Lionchu.p df) (PDF). Archived from the original (http://www.goldshpages.co m/Articles/What%20is%20a%20Lionchu.pdf) (PDF) on July 25, 2011.
+
+* 40. " "GFSA - Ask the Judges", an article about the Lionchu by Larry Christensen, Peter Ponzio, Scott Taylor, Tony Reynolds and John Parker, from the Goldsh Pages Website (Goldsh Society of America), date retrieved: 28 February 2013" (https://web.archive.or g/web/20110725074035/http://www.goldshpages.com/Articles/GFS A%20Ask%20the%20Judges%2C%20Ranchus.pdf) (PDF). Archived from the original (http://www.goldshpages.com/Articles/G
+
+* FSA%20Ask%20the%20Judges%2C%20Ranchus.pdf) (PDF) on July 25, 2011.
+
+* 41. Andrews, Chris, Dr. An Interpet Guide to Fancy Goldsh, Interpet Publishing, 2002. - ISBN 1-902389-64-6
+
+* 42. "Nutran Aquatic News, Issue #4, 2004, Rolf C. Hagen, Inc. (USA) and Rolf C. Hagen Corp. (Montreal, Canada)" (https://web.archive.o rg/web/20111121090523/http://hagen.com/usa/aquatic/more.cfm). Hagen.com. Archived from the original (http://www.hagen.com/usa/ aquatic/more.cfm) on November 21, 2011. Retrieved November 19, 2011.
+
+* 43. Johnson, Dr. Erik L., D.V.M. and Richard E. Hess. Fancy Goldsh: A Complete Guide to Care and Collecting, Shambhala Publications, Inc., 2001 - ISBN 0-8348-0448-4
+
+* 44. "Evolution and Varieties of Goldsh" (https://web.archive.org/web/2 0160110164203/http://www.cnaquash.com/html_news/QiYeXinWe nTest-2-3.html). Archived from the original (http://www.cnaquash.c om/html_news/QiYeXinWenTest-2-3.html) on January 10, 2016. Retrieved August 2, 2015.
+
+* 45. "Goldsh" (https://web.archive.org/web/20100728043700/http://ww w.mypets.net.au/ex/goldsh/528/1). Mypets.net.au. Archived from the original (http://www.mypets.net.au/ex/goldsh/528/1) on July 28, 2010. Retrieved November 19, 2011.
+
+* 46. "Goldsh" (https://web.archive.org/web/20111212210227/http://ww w.experiencefestival.com/goldsh). Experiencefestival.com. Archived from the original (http://www.experiencefestival.com/gold sh) on December 12, 2011. Retrieved November 19, 2011.
+
+* 47. "Goldsh has brain operation" (https://www.bbc.com/news/2921099 1). BBC News. September 15, 2014.
+
+* 48. "Frequent question: Why do Goldsh Change Color?" (https://www. nativesh.org/frequent-question-why-do-goldsh-change-color/). Native Fish. August 25, 2021. Retrieved February 5, 2024.
+
+* 49. "Planted Tanks for Goldsh" (https://injaf.org/aquarium-sh/the-goldf ish-section/planted-tanks-for-goldsh/). INJAF. Retrieved February 5, 2024.
+
+* 50. "Goldsh" (https://www.invasivespeciescentre.ca/invasive-species/ meet-the-species/sh-and-invertebrates/goldsh/). Invasive Species Centre. Retrieved February 5, 2024.
+
+Goldsh - Wikipedia
+
+* 51. Yin, Steph (September 22, 2016). "In the Wild, Goldsh Turn From Pet to Pest" (https://www.nytimes.com/2016/09/23/science/discarde d-goldsh-invasive-species.html). The New York Times. ISSN 0362- 4331 (https://search.worldcat.org/issn/0362-4331). Retrieved February 5, 2024.
+
+* 52. William L. Arnold; William L. Anderson (2001). Biotechnology Deskbook (https://books.google.com/books?id=lNkwt3gX-2cC&q=g oldsh+released+into+the+wild&pg=PA154). Environmental Law Institute. p. 154. ISBN 978-1-58576-029-9.
+
+* 53. Selyukh, Alina (October 16, 2019). "The Goldsh Tariff: Fancy Pet Fish Among The Stranger Casualties Of The Trade War" (https://ww w.npr.org/2019/10/16/768553956/the-goldsh-tariff-fancy-pet-sh-a mong-the-stranger-casualties-of-the-trade-wa). NPR. Retrieved October 17, 2019.
+
+* 54. Knight, Sam (October 26, 2005). "Rome bans goldsh bowls, orders dog owners on walks – World – Times Online" (https://archiv e.today/20060105045820/http://www.timesonline.co.uk/article/0,,13 509-1844070,00.html). The Times. London. Archived from the original (http://www.timesonline.co.uk/article/0,,13509-1844070,00.h tml) on January 5, 2006. Retrieved July 21, 2006.
+
+* 55. "Council bans goldsh bowls" (http://www.abc.net.au/news/2004-07 -24/council-bans-goldsh-bowls/2014352). ABC Australian Broadcast Corporation. July 23, 2004. Retrieved April 21, 2015.
+
+* 56. "5 reasons not to use goldsh bowls" (https://web.archive.org/web/2 0180525162142/http://goldshcareguide.com/2008/03/05/5-reasons -not-to-use-goldsh-bowls/). Goldsh Care Guide. March 5, 2008. Archived from the original (http://goldshcareguide.com/2008/03/05/ 5-reasons-not-to-use-goldsh-bowls/) on May 25, 2018. Retrieved February 1, 2009.
+
+* 57. "goldie" (https://injaf.org/aquarium-sh/the-goldsh-section/goldsh and-their-diet/). goldshsection. Retrieved February 1, 2022.
+
+* 58. "Defra, UK – Animal Health and Welfare – Animal Welfare – Animal Welfare Bill" (https://web.archive.org/web/20060820191520/http://w ww.defra.gov.uk/animalh/welfare/bill/index.htm). Archived from the original (http://www.defra.gov.uk/animalh/welfare/bill/index.htm) on August 20, 2006. Retrieved July 21, 2006.
+
+* 59. BBC News Online - Goldsh are no longer to be given as prizes (htt p://news.bbc.co.uk/1/hi/magazine/3893889.stm)
+
+* 60. BBC News Online - Ban on goldsh prizes 'dropped' (http://news.bb c.co.uk/1/hi/uk_politics/4174457.stm)
+
+* 61. "Swallowing Goldsh" (https://web.archive.org/web/2006061803474 8/http://library.thinkquest.org/3205/SwalG.html). Archived from the original (http://library.thinkquest.org/3205/SwalG.html) on June 18, 2006. Retrieved July 21, 2006.
+
+* 62. Laylin, Taine (March 19, 2012). "5 Million Goldsh Die for Nowruz – the Iranian New Year" (https://greenprophet.com/2012/03/goldsh -nowruz-iranian-new-year/). Green Prophet.
+
+* 63. "Iran: A Nowruz New Year Without Goldsh? · Global Voices" (http s://globalvoices.org/2012/03/16/iran-a-nowruz-new-year-without-gol dsh/). March 16, 2012.
+
+* 64. Gulliver, Katrina (November 1, 2012). "The Great Goldsh Invasion: How an Exotic Carp Took Over America" (https://www.theatlantic.co m/national/archive/2012/11/the-great-goldsh-invasion-how-an-exoti c-carp-took-over-america/264420/). The Atlantic. Retrieved February 5, 2024.
+
+* 65. Fulton, April; Ardalan, Davar (March 20, 2016). "Nowruz: Persian New Year's Table Celebrates Spring Deliciously" (https://www.npr.or g/sections/thesalt/2016/03/20/471174857/nowruz-persian-new-year s-table-celebrates-spring-deliciously). NPR.org. Retrieved March 24, 2021.
+
+"Carassius auratus" (https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=163350). Integrated Taxonomic Information System. Retrieved October 5, 2004.
+
+## External links
+
+Goldsh - Wikipedia
+
+* Froese, Rainer, and Daniel Pauly, eds. (2004). Carassius auratus auratus (http://shbase.se/summary/SpeciesSummary.php?id=271) in FishBase. September 2004 version.
+
+* Goldsh Types (https://goldshmania.com/goldsh-types/) Archived (https://web.archive.org/web/20221207015905/https://goldshmania.com/ goldsh-types/) 2022-12-07 at the Wayback Machine — Description of 50 plus varieties of goldsh with pictures
+
+* Bristol Aquarists' Society: Goldsh (http://www.bristol-aquarists.org.uk/goldsh/goldsh.htm) — Photographs and descriptions of the different goldsh varieties
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Goldsh&oldid=1264447576"
+
+Goldsh - Wikipedia
